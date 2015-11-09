@@ -1,0 +1,10 @@
+{
+  "name": "PadelEvere",
+  "description": "boxes organizer",
+  "dependencies": {
+    "jquery": "latest",
+    "materialize": "latest"
+  },
+  "license": "MIT",
+  "private": true
+}
